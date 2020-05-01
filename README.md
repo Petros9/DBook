@@ -25,3 +25,5 @@ Klient:
 - wgląd w dostępne książki (jeszcze nie zamówione),
 - rejestruje się w systemie (podaje: imię, nazwisko, email i swoją klasę),
 - może odebrać 
+
+https://github.com/wsrtka/DBook/issues/1#issue-610974530
